@@ -119,4 +119,4 @@ This is a personal R&D project. If you’re inspired by Slipspace or want to col
 
 Reach out to me via GitHub
 
-Or email: SkylarJLKing@gmail.com
+
